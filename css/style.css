@@ -307,7 +307,7 @@ img {
   }
 }
 
-@media (min-width:320px) {
+@media (max-width:320px) {
   .section-a .container {
     grid-template-columns: 1fr;
     text-align: center;
